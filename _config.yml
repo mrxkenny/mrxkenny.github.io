@@ -3,6 +3,7 @@
 # ----------------------- #
 
 url: https://kennykao.me
+title: Kenny Kao
 email: kennykao1203@gmail.com
 author: Kenny Kao
 description: > # "Kenny Kao's Resume 
@@ -10,7 +11,6 @@ description: > # "Kenny Kao's Resume
   head meta (for Google search results) and in your feed.xml site 
   description.
 copyright: 'Copyright &copy; 2020 Kenny Kao. All Rights Reserved.'
-credits: 'Credits: Template: Landing Page. Github Pages'
 
 # ----------------------- #
 #    Jekyll & Plugins     #
