@@ -3,7 +3,7 @@
 # ----------------------- #
 
 url: https://kennykao.me
-title: Kenny Kao
+title:
 email: kennykao1203@gmail.com
 author: Kenny Kao
 description: > # "Kenny Kao's Resume 
@@ -11,7 +11,7 @@ description: > # "Kenny Kao's Resume
   head meta (for Google search results) and in your feed.xml site 
   description.
 copyright: 'Copyright &copy; 2020 Kenny Kao. All Rights Reserved.'
-credits: 'Credits: Landing Page is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com/">Start Bootstrap</a>.'
+credits: 'Credits: Template: Landing Page. Github Pages'
 
 # ----------------------- #
 #    Jekyll & Plugins     #
@@ -26,9 +26,5 @@ permalink: pretty
 # ----------------------- #
 
 social:
-  - title: twitter
-    url: https://twitter.com/SBootstrap
-  - title: github
-    url: https://github.com/IronSummitMedia/startbootstrap
   - title: linkedin
-    url: 
+    url: https://www.linkedin.com/in/kennykao/
